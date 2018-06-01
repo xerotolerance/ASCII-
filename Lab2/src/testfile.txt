@@ -1,0 +1,18 @@
+"theres only"1way2say"those three words""4"you
+abc123
+//author: cj
+
+set greeting "hello world!";
+print greeting;
+
+//this is a comment
+
+//.
+//?
++*+
+set countdown 54321;
+print countdown * 0;
+
+set countdown countdown + countdown;        //this is also a comment
+set total (countdown + 12345) * 3;
+print total;

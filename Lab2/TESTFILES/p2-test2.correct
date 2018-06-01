@@ -1,0 +1,16 @@
+print
+id(x)
+sc
+print
+id(y)
+sc
+print
+int(3)
+sc
+id: 2
+int: 1
+print: 3
+sc: 3
+Number of unique lexemes for id: 2
+Number of unique lexemes for str: 0
+Number of unique lexemes for int: 1
