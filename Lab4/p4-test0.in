@@ -1,0 +1,10 @@
+
+set x 5 + 3;
+print x;
+
+set x x * 10;
+print x;
+
+print 2 * 3 + 4;
+print 2 * (3 + 4);
+

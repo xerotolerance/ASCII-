@@ -1,0 +1,10 @@
+// test up string ops
+
+set skip "---";
+
+print "yip"*7;
+print skip;
+print 3 * "uh-huh.";
+
+print "Hello, " + "world";
+print skip;

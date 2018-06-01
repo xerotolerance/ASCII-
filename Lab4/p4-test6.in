@@ -1,0 +1,29 @@
+// no errors here
+
+set sep "-  -  -  -  -  -  -  -  -  -";
+
+print "help" * (3 + 2);
+print 2 * "help" + " me rhonda!";
+print sep + sep;
+
+print "Coffee";
+print sep;
+
+print 2 * 3 + 5;
+print 2 * (3 + 5);
+print sep;
+
+print (2 + 2) * 5;
+
+print 42 * (17 +1000);
+
+print ("this ought to work");
+
+set first 5;
+print first;
+
+set first "five";
+print sep;
+
+print "really done";
+

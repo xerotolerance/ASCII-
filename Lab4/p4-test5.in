@@ -1,0 +1,20 @@
+// precedence, with errors
+
+set sep "-  -  -  -  -  -  -  -  -  -";
+
+print "The ten-dollar founding father without a father"
+print "Got a lot farther by working a lot harder"
+print "By being a lot smarter By being a self-starter"
+
+print 2 * "help" + 3;
+print sep + sep;
+
+print "Coffee";
+print sep;
+
+print "Coffee"[2;3]+"Coffee"[1]*10;
+
+
+print "done"
+
+;

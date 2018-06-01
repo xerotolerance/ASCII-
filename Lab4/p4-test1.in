@@ -1,0 +1,8 @@
+set x 3 + 3;
+set s "three " + "plus " + "three";
+
+set t "three ";
+
+print x;
+print s;
+print t + "and " + t;
