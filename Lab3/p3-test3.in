@@ -1,0 +1,6 @@
+print "help";
+
+print "help"[3+3];
+print "help"[0;4];
+
+set z "help"[5];

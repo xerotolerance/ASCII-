@@ -1,0 +1,10 @@
+set x 10;
+set y 100;
+set z 1000;
+
+set m ( x + ( y ) ) * z + z * 2;
+
+print x;
+print y;
+print z;
+print m;

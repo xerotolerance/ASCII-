@@ -1,0 +1,7 @@
+// parse error
+set xyz 3 + 4 + 5;
+print xyz;
+
+pritn xyx;
+
+print 101;
